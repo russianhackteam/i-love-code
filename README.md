@@ -10,3 +10,7 @@ Android libraries:
 - Библиотека для рисования графиков: https://github.com/jjoe64/GraphView
 
 - Отображение круглых изображений: https://github.com/hdodenhof/CircleImageView
+
+Python libraries:
+
+- Библиотека для сравнения xml документов (например, решает задачу как из одного xml сделать другой xml документ) https://github.com/Shoobx/xmldiff
