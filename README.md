@@ -5,7 +5,7 @@ Android libraries:
 
 - Библиотека для анимации типа "pinch zoom": https://github.com/jsibbold/zoomage
 
-- Реализация свайпов как в Тиндере. Можно посдтавить любой свой layout: https://habr.com/ru/company/badoo/blog/458854/
+- Реализация свайпов как в Тиндере. Можно подставить любой свой layout: https://habr.com/ru/company/badoo/blog/458854/
 
 - Библиотека для рисования графиков: https://github.com/jjoe64/GraphView
 
