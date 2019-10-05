@@ -14,3 +14,5 @@ Android libraries:
 Python libraries:
 
 - Библиотека для сравнения xml документов (например, решает задачу как из одного xml сделать другой xml документ) https://github.com/Shoobx/xmldiff
+
+- [Python library for manage Amazon Web Services (AWS)](https://github.com/boto/boto)
