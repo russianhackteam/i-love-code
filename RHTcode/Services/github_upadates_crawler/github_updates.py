@@ -104,6 +104,6 @@ class GitHubCrawler():
 
 
 if __name__ == '__main__':
-    service = GitHubCrawler("testuseruser", "===Michael000")
+    service = GitHubCrawler("user", "password")
     service.run()
 
